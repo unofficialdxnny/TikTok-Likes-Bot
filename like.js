@@ -19,3 +19,4 @@ function clickAndArrow() {
 
 // Call the function to start the endless loop
 clickAndArrow();
+
